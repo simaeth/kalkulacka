@@ -1,0 +1,7 @@
+C:\Users\Skala.Si.2022\source\repos\Kalkulačka1\Kalkulačka1\obj\Debug\Kalkulačka1.csprojAssemblyReference.cache
+C:\Users\Skala.Si.2022\source\repos\Kalkulačka1\Kalkulačka1\obj\Debug\Kalkulačka1.csproj.CoreCompileInputs.cache
+C:\Users\Skala.Si.2022\source\repos\Kalkulačka1\Kalkulačka1\bin\Debug\Kalkulačka1.exe.config
+C:\Users\Skala.Si.2022\source\repos\Kalkulačka1\Kalkulačka1\bin\Debug\Kalkulačka1.exe
+C:\Users\Skala.Si.2022\source\repos\Kalkulačka1\Kalkulačka1\bin\Debug\Kalkulačka1.pdb
+C:\Users\Skala.Si.2022\source\repos\Kalkulačka1\Kalkulačka1\obj\Debug\Kalkulačka1.exe
+C:\Users\Skala.Si.2022\source\repos\Kalkulačka1\Kalkulačka1\obj\Debug\Kalkulačka1.pdb
